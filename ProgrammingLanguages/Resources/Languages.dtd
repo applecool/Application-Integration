@@ -1,0 +1,25 @@
+<!ELEMENT languages (language*,uses,standards)>
+<!ELEMENT language (name,intendeduses,imperative,object-oriented,functional,procedural,generic,reflective,event-driven,standardtypes)>
+<!ATTLIST language id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT intendeduses (intendeduse)>
+<!ELEMENT intendeduse EMPTY>
+<!ATTLIST intendeduse id IDREFS #IMPLIED>
+<!ELEMENT imperative (#PCDATA)>
+<!ELEMENT object-oriented ANY>
+<!ELEMENT functional ANY>
+<!ELEMENT procedural ANY>
+<!ELEMENT generic ANY>
+<!ELEMENT reflective ANY>
+<!ELEMENT event-driven ANY>
+<!ELEMENT standardtypes (standardtype)>
+<!ELEMENT standardtype EMPTY>
+<!ATTLIST standardtype id IDREFS #IMPLIED>
+<!ELEMENT uses (use*)>
+<!ELEMENT use (#PCDATA)>
+<!ATTLIST use uid ID #REQUIRED>
+<!ELEMENT standards (type*)>
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type tid ID #REQUIRED>
+
+
