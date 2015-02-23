@@ -1,0 +1,17 @@
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+c:\users\sravanthi.sinha\documents\visual studio 2010\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.LangaugeValidation.resources
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.LangaugeValidation.resources
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.Properties.Resources.resources
+C:\Users\Sri Harsha\Desktop\Lab2\Lab2\obj\x86\Debug\Lab2.csproj.GenerateResource.Cache

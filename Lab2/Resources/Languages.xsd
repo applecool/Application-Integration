@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:annotation>
+		<xsd:documentation>
+			This document describes the schema for the
+			Languages xml.
+		</xsd:documentation>
+	</xsd:annotation>
+	<xsd:element name="languages">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="language" maxOccurs="unbounded"
+					minOccurs="0">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element type="xsd:string" name="name" />
+							<xsd:element name="intendeduses">
+								<xsd:complexType>
+									<xsd:sequence>
+										<xsd:element name="intendeduse">
+											<xsd:complexType>
+												<xsd:simpleContent>
+													<xsd:extension base="xsd:string">
+														<xsd:attribute type="xsd:string" name="id" use="optional" />
+													</xsd:extension>
+												</xsd:simpleContent>
+											</xsd:complexType>
+										</xsd:element>
+									</xsd:sequence>
+								</xsd:complexType>
+							</xsd:element>
+							<xsd:element type="xsd:string" name="imperative" />
+							<xsd:element type="xsd:string" name="object-oriented" />
+							<xsd:element type="xsd:string" name="functional" />
+							<xsd:element type="xsd:string" name="procedural" />
+							<xsd:element type="xsd:string" name="generic" />
+							<xsd:element type="xsd:string" name="reflective" />
+							<xsd:element type="xsd:string" name="event-driven" />
+							<xsd:element name="standardtypes">
+								<xsd:complexType>
+									<xsd:sequence>
+										<xsd:element name="standardtype">
+											<xsd:complexType>
+												<xsd:simpleContent>
+													<xsd:extension base="xsd:string">
+														<xsd:attribute type="xsd:string" name="id"	use="optional" />
+													</xsd:extension>
+												</xsd:simpleContent>
+											</xsd:complexType>
+										</xsd:element>
+									</xsd:sequence>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+						<xsd:attribute type="xsd:string" name="id" use="optional" />
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="uses">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="use" maxOccurs="unbounded"
+								minOccurs="0">
+								<xsd:complexType>
+									<xsd:simpleContent>
+										<xsd:extension base="xsd:string">
+											<xsd:attribute type="xsd:string" name="uid"	use="required" />
+										</xsd:extension>
+									</xsd:simpleContent>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="standards">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="type" maxOccurs="unbounded"
+								minOccurs="0">
+								<xsd:complexType>
+									<xsd:simpleContent>
+										<xsd:extension base="xsd:string">
+											<xsd:attribute type="xsd:string" name="tid"	use="required" />
+										</xsd:extension>
+									</xsd:simpleContent>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

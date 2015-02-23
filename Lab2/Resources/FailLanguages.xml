@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<languages  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:noNamespaceSchemaLocation="../Resources/Languages.xsd">
+	<language id="_1">
+		<name>C</name>
+		<intendeduse>
+			<use id="_1 _2 _3 _4"/>
+		</intendeduse>
+		<imperative>Yes</imperative>
+		<object-oriented></object-oriented>
+		<functional></functional>
+		<procedural>Yes</procedural>
+		<generic></generic>
+		<reflective></reflective>
+		<event-driven></event-driven>
+		<standard>
+			<type id="_1 _2"/>
+		</standard>
+	</language>
+	<intendeduse>
+		<use id="_1">Application</use>
+		<use id="_2">System</use>
+		<use id="_3">General Purpose</use>
+		<use id="_4">Low-Level Operations</use>
+		<use id="_5">RAD</use>
+		<use id="_6">Business</use>
+		<use id="_7">Client-Side</use>
+		<use id="_8">Server-Side</use>
+		<use id="_9">Web</use>
+		<use id="_10">AI</use>
+		<use id="_11">Scientific Computing</use>
+		<use id="_12">Scripting</use>
+		<use id="_13">General</use>
+	</intendeduse>
+	<standard>
+		<type id="_1">ANSI</type>
+		<type id="_2">ISO</type>
+		<type id="_3">ECMA</type>
+		<type id="_4">de facto</type>
+		<type id="_5">No</type>
+	</standard>
+</languages>
