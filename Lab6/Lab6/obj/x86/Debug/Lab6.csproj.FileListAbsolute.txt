@@ -1,0 +1,42 @@
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\bin\Debug\Lab6.exe.config
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\bin\Debug\Lab6.exe
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\bin\Debug\Lab6.pdb
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Lab6.Properties.Resources.resources
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Lab6.exe
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Lab6.pdb
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Lab6.csproj.ResolveComReference.cache
+C:\Users\sravanthi.sinha\Documents\Visual Studio 2010\Projects\Lab6\Lab5\obj\x86\Debug\Lab6.frmLanguages.resources
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.ResolveComReference.cache
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.frmLanguages.resources
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sravanthi.sinha\Desktop\Lab6\Lab6\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe.config
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Interop.MSXML2.dll
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.frmLanguages.resources
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\bin\Debug\Lab6.exe
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\bin\Debug\Lab6.pdb
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\bin\Debug\System.Data.SQLite.dll
+\\vmware-host\Shared Folders\Desktop\Lab6\Lab6\bin\Debug\System.Data.SQLite.xml
+C:\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Lab6\Lab6\obj\x86\Debug\Interop.MSXML2.dll
+C:\Lab6\Lab6\obj\x86\Debug\Lab6.csproj.ResolveComReference.cache
+C:\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+C:\Lab6\Lab6\obj\x86\Debug\Lab6.pdb
