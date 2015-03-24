@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="Languages_List.xsl" ?>
+<languages>
+	<language id="_1">
+		<name>C</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_2" />
+			<intendeduse id="_3" />
+			<intendeduse id="_4" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>
+		</object-oriented>
+		<functional>
+		</functional>
+		<procedural>Yes</procedural>
+		<generic>
+		</generic>
+		<reflective>
+		</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_01" />
+			<standardtype id="_02" />
+		</standardtypes>
+	</language>
+	<language id="_2">
+		<name>C++</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_2" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>Yes</functional>
+		<procedural>Yes</procedural>
+		<generic>Yes</generic>
+		<reflective>
+		</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_02" />
+		</standardtypes>
+	</language>
+	<language id="_3">
+		<name>C#</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_5" />
+			<intendeduse id="_6" />
+			<intendeduse id="_7" />
+			<intendeduse id="_8" />
+			<intendeduse id="_9" />
+			<intendeduse id="_13" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>Yes</functional>
+		<procedural>Yes</procedural>
+		<generic>Yes</generic>
+		<reflective>Yes</reflective>
+		<event-driven>Yes</event-driven>
+		<standardtypes>
+			<standardtype id="_02" />
+			<standardtype id="_03" />
+		</standardtypes>
+	</language>
+	<language id="_4">
+		<name>Java</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_6" />
+			<intendeduse id="_7" />
+			<intendeduse id="_8" />
+			<intendeduse id="_9" />
+			<intendeduse id="_13" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>
+		</functional>
+		<procedural>
+		</procedural>
+		<generic>Yes</generic>
+		<reflective>Yes</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_04" />
+		</standardtypes>
+	</language>
+	<language id="_5">
+		<name>JavaScript</name>
+		<intendeduses>
+			<intendeduse id="_7" />
+			<intendeduse id="_8" />
+			<intendeduse id="_9" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>Yes</functional>
+		<procedural>
+		</procedural>
+		<generic>
+		</generic>
+		<reflective>Yes</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_03" />
+		</standardtypes>
+	</language>
+	<language id="_6">
+		<name>PHP</name>
+		<intendeduses>
+			<intendeduse id="_8" />
+			<intendeduse id="_9" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>
+		</functional>
+		<procedural>Yes</procedural>
+		<generic>
+		</generic>
+		<reflective>Yes</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_05" />
+		</standardtypes>
+	</language>
+	<language id="_7">
+		<name>Python</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_13" />
+			<intendeduse id="_9" />
+			<intendeduse id="_12" />
+			<intendeduse id="_10" />
+			<intendeduse id="_13" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional>Yes</functional>
+		<procedural>
+		</procedural>
+		<generic>
+		</generic>
+		<reflective>Yes</reflective>
+		<event-driven>
+		</event-driven>
+		<standardtypes>
+			<standardtype id="_05" />
+		</standardtypes>
+	</language>
+	<language id="_8">
+		<name>ActionScript 3.0</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_7" />
+			<intendeduse id="_9" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional />
+		<procedural />
+		<generic />
+		<reflective />
+		<event-driven>Yes</event-driven>
+		<standardtypes>
+			<standardtype id="_03" />
+		</standardtypes>
+	</language>
+	<language id="_9">
+		<name>Ada</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+			<intendeduse id="_2" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented>Yes</object-oriented>
+		<functional />
+		<procedural>Yes</procedural>
+		<generic>Yes</generic>
+		<reflective>Yes</reflective>
+		<event-driven />
+		<standardtypes>
+			<standardtype id="_01" />
+			<standardtype id="_02" />
+			<standardtype id="_06" />
+		</standardtypes>
+	</language>
+	<language id="_10">
+		<name>Basic</name>
+		<intendeduses>
+			<intendeduse id="_1" />
+		</intendeduses>
+		<imperative>Yes</imperative>
+		<object-oriented />
+		<functional />
+		<procedural>Yes</procedural>
+		<generic />
+		<reflective />
+		<event-driven />
+		<standardtypes>
+			<standardtype id="_01" />
+			<standardtype id="_02" />
+		</standardtypes>
+	</language>
+	<uses>
+		<use uid="_1">Application</use>
+		<use uid="_2">System</use>
+		<use uid="_3">General Purpose</use>
+		<use uid="_4">Low-Level Operations</use>
+		<use uid="_5">RAD</use>
+		<use uid="_6">Business</use>
+		<use uid="_7">Client-Side</use>
+		<use uid="_8">Server-Side</use>
+		<use uid="_9">Web</use>
+		<use uid="_10">AI</use>
+		<use uid="_11">Scientific Computing</use>
+		<use uid="_12">Scripting</use>
+		<use uid="_13">General</use>
+		<use uid="_14">Embedded</use>
+		<use uid="_15">Realtime</use>
+		<use uid="_16">Education</use>
+	</uses>
+	<standards>
+		<type tid="_01">ANSI</type>
+		<type tid="_02">ISO</type>
+		<type tid="_03">ECMA</type>
+		<type tid="_04">de facto</type>
+		<type tid="_05">No</type>
+		<type tid="_06">GOST</type>
+	</standards>
+</languages>
