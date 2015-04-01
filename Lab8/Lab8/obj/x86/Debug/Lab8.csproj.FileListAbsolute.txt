@@ -1,0 +1,9 @@
+D:\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Lab8\Lab8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab8\Lab8\obj\x86\Debug\Lab8.Properties.Resources.resources
+D:\Lab8\Lab8\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lab8\Lab8\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lab8\Lab8\obj\x86\Debug\Lab8.exe
+D:\Lab8\Lab8\obj\x86\Debug\Lab8.pdb
+D:\Lab8\Lab8\obj\x86\Debug\Lab8.frmXpathDemo.resources
