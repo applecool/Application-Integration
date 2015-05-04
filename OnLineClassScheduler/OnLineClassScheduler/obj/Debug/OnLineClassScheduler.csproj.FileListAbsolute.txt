@@ -1,0 +1,9 @@
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe.config
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.pdb
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmOnlineScheduler.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmResults.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.Properties.Resources.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.csproj.GenerateResource.Cache
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.exe
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.pdb
