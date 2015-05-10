@@ -1,0 +1,39 @@
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe.config
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.pdb
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmOnlineScheduler.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmResults.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.Properties.Resources.resources
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.csproj.GenerateResource.Cache
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.exe
+D:\dd\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.pdb
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe.config
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.exe
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.pdb
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.pdb
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmOnlineScheduler.resources
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmResults.resources
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.Properties.Resources.resources
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.csproj.GenerateResource.Cache
+D:\OnLineClassSchedulerV1\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmUrlViewer.resources
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe.config
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.pdb
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmOnlineScheduler.resources
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmResults.resources
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmUrlViewer.resources
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.Properties.Resources.resources
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.csproj.GenerateResource.Cache
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.exe
+D:\OnLineClassScheduler (1)\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.pdb
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe.config
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.exe
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.pdb
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmOnlineScheduler.resources
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmResults.resources
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.frmUrlViewer.resources
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.Properties.Resources.resources
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\obj\Debug\OnLineClassScheduler.csproj.GenerateResource.Cache
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.exe
+C:\Users\E4300\Desktop\OnLineClassScheduler\OnLineClassScheduler\OnLineClassScheduler\bin\Debug\OnLineClassScheduler.pdb

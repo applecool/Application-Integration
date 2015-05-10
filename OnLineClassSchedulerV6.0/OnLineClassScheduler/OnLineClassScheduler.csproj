@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11978CFB-D997-4BDF-8796-925E1A938A49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OnLineClassScheduler</RootNamespace>
+    <AssemblyName>OnLineClassScheduler</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Calendar.NET">
+      <HintPath>C:\Users\E4300\Desktop\CalendarNETSource\Calendar.NET\bin\Debug\Calendar.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmOnlineScheduler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOnlineScheduler.Designer.cs">
+      <DependentUpon>frmOnlineScheduler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResults.Designer.cs">
+      <DependentUpon>frmResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUrlViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUrlViewer.Designer.cs">
+      <DependentUpon>frmUrlViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Building.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Course.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Instructor.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Schedule.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Subject.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\BusinessEntities\Term.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.BAL\Repository.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.DAL\DataAccessEntity.cs" />
+    <Compile Include="Models\Purdue.OnlineClassScheduler.Logs\LogFile.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmOnlineScheduler.resx">
+      <DependentUpon>frmOnlineScheduler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResults.resx">
+      <DependentUpon>frmResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUrlViewer.resx">
+      <DependentUpon>frmUrlViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="bin\Debug\OnLineClassScheduler.exe.config" />
+    <None Include="bin\Debug\OnLineClassScheduler.vshost.exe.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="PUC_course_schedule.sqlite" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\OnLineClassScheduler.exe" />
+    <Content Include="bin\Debug\OnLineClassScheduler.pdb" />
+    <Content Include="bin\Debug\OnLineClassScheduler.vshost.exe" />
+    <Content Include="bin\Debug\System.Data.SQLite.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.pdb" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
